@@ -1,6 +1,6 @@
-# zhouying2209010059
-# 张三的求职简历  
-**学号**：20231001  
+# 
+# zhouying的求职简历  
+**学号**：2209010059  
 **邮箱**：zhangsan@example.com | **电话**：+86 13800138000  
 **GitHub**：[github.com/zhangsan](https://github.com/zhangsan) | **LinkedIn**：[linkedin.com/in/zhangsan](https://linkedin.com/in/zhangsan)  
 
